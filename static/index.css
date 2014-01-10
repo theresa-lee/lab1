@@ -1,8 +1,15 @@
 body {
   font: normal 16px Calibri, Arial, sans-serif;
   text-align: center;
+  color: white;
+  background-color: black;
 }
 
-body h1 {
+a:link, a:visited, a:active{
+	text-decoration: none;
+	color: white;
+}
 
+a:hover {
+	color: #c4c4c4;
 }
